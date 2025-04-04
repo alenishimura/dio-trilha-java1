@@ -14,7 +14,7 @@ public class ContaTerminal {
         System.out.println("Digite o nome do cliente: ");
         String nome_cliente = scanner.nextLine();
 
-        System.out.println("Digite o saldo contido: ");
+        System.out.println("Digite o saldo contido: (ex:9999,99)");
         double saldo = scanner.nextDouble();
 
 
